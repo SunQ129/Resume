@@ -1,0 +1,35 @@
+title: Jeremy Sun
+description: 專注於雲端資安架構設計與零信任轉型的資安專家
+baseurl: "/Resume" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+lang: zh-TW
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-redirect-from
+
+# Navigation
+header_pages:
+  - aboutme.md
+  - contact.md
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title.html
+
+# Default front matter
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "孫岳均 (Jeremy Sun)"
+      comments: true 
