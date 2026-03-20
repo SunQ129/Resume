@@ -84,7 +84,7 @@ permalink: /contact/
         </ul>
         <div class="alert alert-info">
             <i class="fas fa-info-circle me-2"></i>
-            <span>目前開放技術顧問與架構規劃的合作機會，歡迎來信討論。</span>
+            <span>目前開放技術講座與架構規劃的合作機會，歡迎來信討論。</span>
         </div>
     </div>
 </div>
