@@ -44,7 +44,7 @@ export const translations = {
         {
           role: '雲端資安解決方案架構師 (Cloud Security Solution Architect)',
           company: 'eCloudvalley Digital Technology',
-          period: '目前',
+          period: '過去',
           achievements: [
             '規劃並展示資安解決方案（滲透測試、SOC、MSSP、SIEM）以支援業務拓展。',
             '協助客戶導入 CNAPP，整合安全檢測進入 CI/CD，強化雲端開發環境安全。',
@@ -182,7 +182,7 @@ export const translations = {
         {
           role: 'Cloud Security Solution Architect',
           company: 'eCloudvalley Digital Technology',
-          period: 'Present',
+          period: 'Previous',
           achievements: [
             'Planned and demonstrated security solutions (Penetration Testing, SOC, MSSP, SIEM) to support business expansion.',
             'Assisted clients in adopting CNAPP and integrating security checks into CI/CD pipelines to harden cloud development environments.',
